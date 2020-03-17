@@ -7,4 +7,4 @@ Queremos compartirte nuestros trabajo a lo largo del curso de computación gráf
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-Para informácion relacionada con nuestro contenido visita: [computacion visual 2020](https://visualcomputing.github.io/) on GitHub.
+Para informácion relacionada con nuestro contenido visita: [https://visualcomputing.github.io/](https://visualcomputing.github.io/) on GitHub.
